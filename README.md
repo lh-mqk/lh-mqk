@@ -2,7 +2,8 @@
 ### Hi there I'm [lh-mqk!]([lh-mqk](https://github.com/lh-mqk))👋
 I'm a computer engineer who works in semi-conductor field. I build CLI tools and IoT application as hobby.<br>
 ## 📫 How to reach me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lh-mqk/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lh-mqk)
+<a href="https://www.linkedin.com/in/lh-mqk/"><img alt="Website" src="https://i.stack.imgur.com/gVE0j.png"></a>
+<a href="https://github.com/lh-mqk"><img alt="Website" src="https://i.stack.imgur.com/tskMh.png"></a>
 
 - 🔭 I’m working on [Banh's NVMe](https://github.com/lh-mqk/banhs_nvme)
 - 🌱 I’m learning about NVMe
